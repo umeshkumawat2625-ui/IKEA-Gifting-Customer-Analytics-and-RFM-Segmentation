@@ -2,7 +2,7 @@
 
 *An end to end data analytics project using SQL, Python, and Power BI*
 
-**Author:** Mansi Goel | YouTube: [Mansi G.](https://www.youtube.com/@Mansi.goel.offical) | Analytics Engineer
+**Author:** Umesh Kumawat | Linkdin : https://www.linkedin.com/in/umeshdaya2625/ | Data Analyst
 
 ---
 
